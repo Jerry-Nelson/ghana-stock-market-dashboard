@@ -78,13 +78,12 @@ Download and watch the dashboard demo showing how filters and visuals respond to
 
 ## Key Insights
 
-Some insights observed from the analysis include:
-
-- Certain stocks dominate trading volume on the GSE.
-- Price trends reveal periods of strong upward momentum in selected equities.
-- Market breadth indicators highlight days when the majority of stocks moved in the same direction.
-- Sector comparisons show where most market activity is concentrated.
-
+- The GSE Composite Index recorded a **163% increase**, reflecting strong market growth.
+- The **Financial Stock Index outperformed the broader market**, rising by over **223%**.
+- **Clydestone (CLYD)** emerged as the top-performing stock with a **2,366% return**.
+- Banking and insurance companies dominate the **top-performing stocks**, highlighting strong sector momentum.
+- Trading volume spikes suggest periods of **increased institutional activity**.
+- Macroeconomic indicators such as **low inflation and moderate treasury yields** may support equity market participation.
 ---
 
 ## Author
@@ -92,5 +91,5 @@ Some insights observed from the analysis include:
 **Jerry Nelson Cobbinah**  
 Data Analyst | Finance & Investment Enthusiast
 
-Portfolio: (your portfolio link)  
-LinkedIn: (your linkedin link)
+Portfolio: https://jerry-nelson-portfolio.netlify.app/ 
+LinkedIn: www.linkedin.com/in/jerry-nelson-cobbinah-60ab911a5
